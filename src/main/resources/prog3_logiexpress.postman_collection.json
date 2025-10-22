@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "f6ff6593-9b4a-4b3a-992c-290cbc24a38c",
+		"name": "prog3_logiexpress",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49478788",
+		"_collection_link": "https://lmrave2003-1084230.postman.co/workspace/lmrave2003's-Workspace~b8b43d21-40f2-42ce-82f7-782e6114b3c5/collection/49478788-f6ff6593-9b4a-4b3a-992c-290cbc24a38c?action=share&source=collection_link&creator=49478788"
+	},
+	"item": [
+		{
+			"name": "Saludo Campeones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/progg3",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"progg3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
